@@ -20,10 +20,10 @@ you should spend some time to make a methodology for the chosen product
 
 ## Let’s review some cases
 
-[WordPress](Technologies%20and%20CMS%209a41b6013182420fb8e67eedb2b0ea3c/WordPress%202747d4b5352447ac8077f0124600c18a.md)
+[WordPress](Technologies%20and%20CMS/WordPress.md)
 
-[Django](Technologies%20and%20CMS%209a41b6013182420fb8e67eedb2b0ea3c/Django%2076355633d5b14ddb9a0cab86cb2cc8f8.md)
+[Django](Technologies%20and%20CMS/Django.md)
 
-[Laravel](Technologies%20and%20CMS%209a41b6013182420fb8e67eedb2b0ea3c/Laravel%2073033a96bd1c441eaa85a3eab8eff260.md)
+[Laravel](Technologies%20and%20CMS/Laravel.md)
 
-[React](Technologies%20and%20CMS%209a41b6013182420fb8e67eedb2b0ea3c/React%20f09c202417064bf9a8dd727bd443c8ee.md)
+[React](Technologies%20and%20CMS/React.md)
