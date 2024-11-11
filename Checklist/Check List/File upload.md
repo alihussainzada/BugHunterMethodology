@@ -11,7 +11,8 @@ When you have file upload functionality these types of vulnerabilities are possi
 
 [Vulnerabilities](File%20upload/Vulnerabilities.md)
 
-[File Upload Bypasses](File%20upload/File%20Upload.md)
+[File Upload Bypasses](File%20upload/File%20Upload%20Bypasses.md)
+
 
 - **Complete guide :**
     - Extensions Impact
