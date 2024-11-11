@@ -9,9 +9,9 @@ When you have file upload functionality these types of vulnerabilities are possi
     - your delimiters (null byte and more)
     - 
 
-[Vulnerabilities](File%20upload%20!%20f574cf81098b44ad81cb3caf16835ee3/Vulnerabilities%20aed4e297ba3247b28c2d3aef7c952f20.md)
+[Vulnerabilities](File%20upload/Vulnerabilities.md)
 
-[File Upload Bypasses](File%20upload%20!%20f574cf81098b44ad81cb3caf16835ee3/File%20Upload%20Bypasses%20f07522dfdb4045b79371cf9e59756eba.md)
+[File Upload Bypasses](File%20upload/File%20Upload.md)
 
 - **Complete guide :**
     - Extensions Impact
