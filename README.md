@@ -2,10 +2,10 @@
 
 This repository provides a structured bug bounty methodology, offering a step-by-step approach to vulnerability discovery and exploitation. It's built from numerous resources and personal insights, focusing on practical tools and techniques for successful bug hunting.
 
-- **[Web App Recon](https://github.com/alihussainzada/myBugBountyMethodology/blob/main/webAppRecon/README.md
+- **[Web App Recon](https://github.com/alihussainzada/BugHunterMethodology/tree/main/webAppRecon
 )**: Resources and techniques for effective web application reconnaissance to identify attack surfaces.
-- **[Methodology or Flow](https://github.com/alihussainzada/myBugBountyMethodology/blob/main/Methodology/README.md)**: A comprehensive workflow for identifying, analyzing, and exploiting various vulnerabilities.
-- **[Checklist](https://github.com/alihussainzada/myBugBountyMethodology/blob/main/Checklist/README.md)**: Detailed checklists for each type of vulnerability to ensure thorough coverage during testing.
+- **[Methodology or Flow](https://github.com/alihussainzada/BugHunterMethodology/tree/main/Methodology)**: A comprehensive workflow for identifying, analyzing, and exploiting various vulnerabilities.
+- **[Checklist](https://github.com/alihussainzada/BugHunterMethodology/tree/main/Checklist)**: Detailed checklists for each type of vulnerability to ensure thorough coverage during testing.
 
 ## Contents
 
