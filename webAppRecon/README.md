@@ -1,6 +1,6 @@
 # WebApp Recon
 
-In the recon process, we aim to map the application as most as possible. In order to achieve this, various techniques shroud be used:
+In the recon process, we aim to map the application as much as possible. In order to achieve this, various techniques shroud be used:
 
 - Google Dorks
 - GitHub, Bit bucket and etc searches
@@ -53,7 +53,7 @@ link:domain.tld
 site:stackoverflow.com "domain.tld"
 ```
 
-- I have collected these
+- I have collected these:
 
 ```
 site:*.target.* intext:@gmail.com -> useful from twitter
@@ -61,11 +61,11 @@ site:*.target.* intext:@gmail.com -> useful from twitter
 
 Use these tree sites:
 
-[Google Dorks for Bug Bounty](https://taksec.github.io/google-dorks-bug-bounty/)
+1. [Google Dorks for Bug Bounty](https://taksec.github.io/google-dorks-bug-bounty/)
 
-1. [https://pentest-tools.com/information-gathering/google-hacking](https://pentest-tools.com/information-gathering/google-hacking)
-2. [https://dorksearch.com/](https://dorksearch.com/)
-3. [https://dorkgenius.com/](https://dorkgenius.com/)
+2. [https://pentest-tools.com/information-gathering/google-hacking](https://pentest-tools.com/information-gathering/google-hacking)
+3. [dorksearch](https://dorksearch.com/)
+4. [https://dorkgenius.com/](https://dorkgenius.com/)
 
 ## Determine the framework or CMS
 
@@ -81,7 +81,7 @@ host: [ALL_SUBDOMAIN]
 
 ## Extract
 
-**some sites useful sites**
+**some useful sites**
 
 - [https://archieve.org](https://archieve.org) - a great source to travel in time
 - [https://commoncrawl.org](https://commoncrawl.org) - great source of sites which have already crawled
@@ -98,16 +98,16 @@ host: [ALL_SUBDOMAIN]
 
 The flow is like:
 
-Find All Urls (gospider) ⇒ Find hidden links from js files (LinkFinder) ⇒ httpx
+Find All Urls (gospider) ⇒ Find hidden links from JS files (LinkFinder) ⇒ httpx
 
-for Mass and Manual Test
+for Mass and Manual Tests
 
 ## Fuzzing to discover
 
-the aim to discover following properties
+The aim to discover following properties
 
 - File names
 - parameters name
 - endpoints
 
-see the methodology!
+See the methodology!
